@@ -1,2 +1,4 @@
-# one_way_to_AI
-my notebook about machine learning
+# one\_way\_to\_AI
+
+my notebook about machine learning.
+
